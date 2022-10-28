@@ -1,3 +1,19 @@
+# ericz.dev
+
+My website
+
+## Maintainers
+
+Eric Zhu eric@korzq.xyz
+Public key: [publickey.asc]
+
+Normal issue can be opened via issue tracker or email me
+Security issue should be emailed to me (please use pgp if you can)
+
+### License
+
+MIT
+
 Copyright (c) 2020 Tianyu Zhu (eric@ericz.me)
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
